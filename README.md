@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vaibhav Chauhan
 
-Java Backend Developer with 3+ years of professional experience in building scalable, secure, and production-grade backend systems using Java and Spring Boot.
+Java Backend Developer with 4+ years of professional experience in building scalable, secure, and production-grade backend systems using Java and Spring Boot.
 
 ---
 
